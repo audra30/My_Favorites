@@ -1,0 +1,22 @@
+html {
+  background-color: rgb(252, 241, 226);
+}
+.center {
+  text-align: center;
+}
+body {
+  background-color: white;
+  border-radius: 25px;
+  margin: 25px auto;
+  width: 600px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 20px;
+}
+a {
+  color: rgb(86, 124, 86);
+  text-decoration: none;
+}
+a:hover {
+  color: cadetblue;
+  text-decoration: underline;
+}
